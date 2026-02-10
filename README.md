@@ -13,7 +13,7 @@
     <hr>
     <div class=" header"> </div>
     <h1> MUKESH KUMAR MEENA </h1>
-    <img width="150" height="150" src="PHOTO.JPG.jpeg" alt=""></span>
+    <img width="150" height="150" src="PHOTO.JPG.jpeg" alt="">
     </h1>
     </div>
     <p>&nbsp; MO.| gmail.@gmail.com| | jaipur </p>
