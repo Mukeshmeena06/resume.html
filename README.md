@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> resume </title>
     <link rel="stylesheet" href="style3.css">
-
 </head>
 
 <body>
@@ -28,15 +27,12 @@
         <br>
     <h2> TECHNICAL SKILL</h2>
     <p> html. css .javascript. java</p>
-
-
     </ul>
     <h2>PROJECTS.</h2>
     <ul>
         <li> project name </li>
         <li>technology </li>
         <p> this project is a frontend and backend roadmap and my frist project in using html and css</p>
-
     </ul>
     <h2> SKILL</h2>
     <ul>
