@@ -1,2 +1,56 @@
-# resume.html
-resum 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> resume </title>
+    <link rel="stylesheet" href="style3.css">
+
+</head>
+
+<body>
+    <hr>
+    <div class=" header"> </div>
+    <h1> MUKESH KUMAR MEENA </h1>
+    <img width="150" height="150" src="PHOTO.JPG.jpeg" alt=""></span>
+    </h1>
+    </div>
+    <p>&nbsp; MO.| gmail.@gmail.com| | jaipur </p>
+    <br>
+    <hr>
+    <h2> CAREER OBJECTIVE</h2>
+    <p> motivation computer science student lookin for an entry -level role .</p>
+    <br>
+    <h2> EDUCATION </h2>
+    <p> BCA | AGARWAL PG. COLLEGE , JAIPUR| (2024- 2027)
+        <br>
+    <h2> TECHNICAL SKILL</h2>
+    <p> html. css .javascript. java</p>
+
+
+    </ul>
+    <h2>PROJECTS.</h2>
+    <ul>
+        <li> project name </li>
+        <li>technology </li>
+        <p> this project is a frontend and backend roadmap and my frist project in using html and css</p>
+
+    </ul>
+    <h2> SKILL</h2>
+    <ul>
+        <li> Html </li>
+        <li> Css</li>
+        <li> Javascript</li>
+        <li> Java </li>
+    </ul>
+    <h2>PERSONAL INFORMATION</h2>
+    <p> i am mukesh kumar meena from todaraising (tonk) im 12th pass out from govt. sen sec. school botunda with 71.60%
+        marks
+        in arts background <br> and pursing bacholer of comupert application (bca) from agarwal pg. college jaipur </p>
+    <h2> DECLERATION</h2>
+    <p> all information is true </p>
+</body>
+
+</html>
